@@ -1,0 +1,8 @@
+
+
+a) add to the end of a linked list (ie, TACO19)
+b) remove the first (or last) element of a linked list (ie, ACO or TAC)
+c) bonus: add to the beginning of a linked list (19TACO)
+d) bonus: do the other one from b (ie TAC or ACO)
+e) mega bonus: remove an element that you pass to the linked list (you can pass in the value you want to remove or the position (either c or the third element))
+(ie remove A; TCO)

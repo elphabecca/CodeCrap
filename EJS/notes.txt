@@ -1,0 +1,19 @@
+The push method can be used to add values to the end of an array. The pop method does the opposite: it removes the value at the end of the array and returns it. 
+
+A set of daily log entries can be represented as an array.
+
+Values of the type object are arbitrary collections of properties.
+Create an object using curly brace {} notation.
+
+Properties -- math.max, string.length (the part after the dot directly names the property, when using square brackets the expression between the brackets is evaluated to get the property name)
+
+The elements in an array are stored in properties.
+
+An object is a variable with many values.
+var car = {type:"Fiat", model:"500", color:"white"}
+This notation is referenced as a name:value pair, and called OBJECT PROPERTIES
+
+OBJECT METHODS are stored in properties as function defintions.
+
+If you access the fullName method, without (), it will return the function definition.
+
